@@ -1,5 +1,6 @@
-# Note_Taking_Web_Application
-# CSYE 6225 - Spring 2019
+# CSYE 6225 - Spring 2019-NORTHEASTERN UNIVERSITY
+# Note_Taking_Web_Application Hosted on AWS
+
 
 
 ## Technology Stack
